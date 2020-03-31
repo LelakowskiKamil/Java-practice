@@ -16,6 +16,7 @@ public class Bankomat {
         System.out.println("====BANKOMAT====");
         System.out.println("====PODAJ PIN===");
         System.out.println("================");
+        
     }
 
     private void podajNrKarty() {
